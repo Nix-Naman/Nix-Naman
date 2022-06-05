@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi, I’m @Naman Patel\n
+👋 Hi, I’m @Naman Patel
 👀 I’m interested in Programming
 🌱 I’m currently learning Flutter
 💬 Ask me about Flutter or any tech-related stuff.
