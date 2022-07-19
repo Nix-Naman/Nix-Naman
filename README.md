@@ -1,9 +1,9 @@
 # 💫About Me :
-👋 Hi, I’m @Naman Patel
-👀 I’m interested in Programming
-🌱 I’m currently learning Flutter
-💬 Ask me about Flutter or any tech-related stuff.
-😄 Pronouns: He/His
+👋 Hi, I’m @Naman Patel  
+👀 I’m interested in Programming  
+🌱 I’m currently learning Flutter  
+💬 Ask me about Flutter or any tech-related stuff.  
+😄 Pronouns: He/His  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/naman.patel.5070276) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_naman.p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-kumar-patel-757b22214) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Naman_83) 
